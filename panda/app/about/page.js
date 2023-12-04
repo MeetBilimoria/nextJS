@@ -3,7 +3,7 @@ import React from 'react'
 const about = () => {
   return (
     <div>
-      about
+       this is abouttttt not nowe
     </div>
   )
 }
