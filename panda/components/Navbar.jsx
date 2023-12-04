@@ -16,7 +16,7 @@ const Navbar = () => {
                 <Link href='/about'className='link'>About</Link>
                 <Link href='/portfolio'className='link'>Portfolio</Link>
             </div>
-            <button onClick={()=> router.push("contact")}> Lets talk</button>
+            <button className="button"   onClick={()=> router.push("contact")}> Lets talk</button>
         </ul>
     </nav>
   )
